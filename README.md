@@ -36,10 +36,10 @@ The project submission consists of three parts:
 ## reference
 
 
-[1] DeLiang Wang, Jitong Chen, 2017, Supervised Speech Separation Based on Deep Learning: An Overview, https://arxiv.org/abs/1708.07524
-[2] MatLab: Cocktail Party Source Separation Using Deep Learning Networks, https://www.mathworks.com/help/audio/ug/cocktail-party-source-separation-using-deep-learning-networks.html
-[3] Yi Luo, Nima Mesgarani, 2018, Conv-TasNet: Surpassing Ideal Time-Frequency Magnitude Masking for Speech Separation, https://arxiv.org/abs/1809.07454
-[4] https://blog.csdn.net/m0_56942491/article/details/134455964
+[1] DeLiang Wang, Jitong Chen, 2017, Supervised Speech Separation Based on Deep Learning: An Overview, https://arxiv.org/abs/1708.07524 <br>
+[2] MatLab: Cocktail Party Source Separation Using Deep Learning Networks, https://www.mathworks.com/help/audio/ug/cocktail-party-source-separation-using-deep-learning-networks.html <br>
+[3] Yi Luo, Nima Mesgarani, 2018, Conv-TasNet: Surpassing Ideal Time-Frequency Magnitude Masking for Speech Separation, https://arxiv.org/abs/1809.07454 <br>
+[4] https://blog.csdn.net/m0_56942491/article/details/134455964 <br>
 
 
 
