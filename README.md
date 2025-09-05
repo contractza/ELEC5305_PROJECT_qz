@@ -1,5 +1,4 @@
 # ELEC5305_PROJECT_qz
-this is for the project feedback
 
 ## Voice separation and localization for multiple speakers
 
@@ -15,9 +14,10 @@ The STFT features of mixed speech are modeled by using the LSTM/BiLSTM network.
 model input: magnitude spectrogram of mixed speech
 output: time-frequency masks for each speaker
 multiply the predicted mask with the mixed speech and then reconstruct the separated speech through ISTFT.
+loss function: SDR/MSE
 
 ## except result
-
+Realize the separation of voices between two speakers, the result is better than ICA baseline
 
 
 ## dataset:
