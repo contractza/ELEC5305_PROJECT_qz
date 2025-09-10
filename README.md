@@ -1,6 +1,12 @@
 # ELEC5305_PROJECT_qz
 
-## Voice separation and localization for multiple speakers
+## Title: Voice separation and localization for multiple speakers
+
+## Student information
+Full name: Qihang Zhao
+Sid: 510022587
+GitHub username: contractza
+
 
 this project aims to research and implement multi-speaker speech separation and sound source localization technology. When two people are speaking simultaneously, how to sepearate each speaker's voice from a dualchannel recording and estimate their azimuth in space.
 
