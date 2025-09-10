@@ -3,12 +3,13 @@
 ## Title: Voice separation and localization for multiple speakers
 
 ## Student information
-Full name: Qihang Zhao
-Sid: 510022587
-GitHub username: contractza
+Full name: Qihang Zhao <br>
+Sid: 510022587 <br>
+GitHub username: contractza <br>
 
-
+## project overview
 this project aims to research and implement multi-speaker speech separation and sound source localization technology. When two people are speaking simultaneously, how to sepearate each speaker's voice from a dualchannel recording and estimate their azimuth in space.
+The reason for choosing this topic is that it integrates two fields: signal processing and deep learning. On one hand, it involves classic speech signal processing methods such as STFT and time-frequency masking; on the other hand, it utilizes the deep learning framework to improve the separation performance, possessing both engineering feasibility and academic exploration value.
 
 ## research problems:
 - How can deep learning methods be used to separate the signals of individual speakers from mixed speech?
@@ -30,7 +31,13 @@ Realize the separation of voices between two speakers, the result is better than
 MiniLibriMix (https://zenodo.org/records/3871592), includes dual speaker mixed voice
 use dual-channel microphones to record the dialogue between two people for demonstration and testing the generalization ability of the model
 
-
+## timetable:
+week          	task
+6–7	Literature research and download the MiniLibriMix dataset <br>
+8–9	Build a MATLAB deep learning model and complete the STFT + LSTM mask prediction framework <br>
+10–11	Model training and preliminary evaluation, and comparison of ICA and deep learning results <br>
+12	Add the sound source location module to visualise <br>
+13	final report and present video <br>
 
 ## Project Submission Details
 The project submission consists of three parts:
