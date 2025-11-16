@@ -1,5 +1,25 @@
 # ELEC5305_PROJECT_qz
 
+for training the model, find one of the model for exmaple dprnn_enhanced.py, do:
+python dprnn_enhanced.py 
+
+the model will be saved and for evaluating the model, find the Corresponding evaluation file, for example, eval_enhanced.py, do:
+python eval_enhanced.py
+and then the result will saved in same file.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Title: Voice separation and localization for multiple speakers
 
 ## Student information
