@@ -5,9 +5,9 @@ python dprnn_enhanced.py
 
 the model will be saved and for evaluating the model, find the Corresponding evaluation file, for example, eval_enhanced.py, do:
 python eval_enhanced.py
-and then the result will saved in same file.
+and then the result will saved in same file.\\
 
-
+the result is shown in the files\\
 
 
 
